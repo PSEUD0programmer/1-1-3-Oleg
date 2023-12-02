@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 450px;
+    margin: 0 auto;
+}
+section {
+    width: 450px;
+    border: 2px solid black;
+}
+p{
+    padding: 10px;
+}
+.title {
+    color: white;
+    padding: 15px;
+    background: black;
+}
+
+li {
+    margin-left: 50px;
+    padding-inline-start: 5px;
+}
+
+.top {
+    list-style-type: decimal;
+}
+
+.table-title {
+    color: white;
+    background: gray;
+}
+
+table {
+    margin: 5px;
+}
+
+tr {
+    background: lightgray;
+}
